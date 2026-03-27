@@ -1,6 +1,6 @@
 # Superstore-Sales-Analysis
 Superstore Sales Analysis: From raw data to actionable executive insights using Microsoft Excel.
-# Superstore Sales & Profitability Analysis
+
 
 ## 📊 Dashboard Preview
 ![Executive Dashboard](full_dashboard_preview.png)
